@@ -61,6 +61,35 @@ The job postings are spread throughout 2023, suggesting a steady demand for data
 ![Top Paying Jobs](assets/query1_bar.png)
 *Bar graph visualizing the salary for the top 10 best paying jobs for Data Analyst; ChatGPT generated this graph from my SQL query results*
 
+
+### 6. Top 10 demanded skills for Data Engineer
+
+| NO. | Skills       | Demand Count | Demand Percent |
+|-----|--------------|--------------|----------------|
+| 1   | SQL          | 113,375      | 60.7%          |
+| 2   | Python       | 108,265      | 58.0%          |
+| 3   | AWS          | 62,174       | 33.3%          |
+| 4   | Azure        | 60,823       | 32.6%          |
+| 5   | Spark        | 53,789       | 28.8%          |
+| 6   | Java         | 35,642       | 19.1%          |
+| 7   | Kafka        | 29,163       | 15.6%          |
+| 8   | Hadoop       | 28,883       | 15.5%          |
+| 9   | Scala        | 28,791       | 15.4%          |
+| 10  | Databricks   | 27,532       | 14.7%          |
+
+Based on the provided data regarding the top 10 skills demanded for Data Engineers, we can derive the following key insights:
+
+- **SQL and Python Proficiency**: 
+SQL and Python are the top two most in-demand skills among Data Engineers, with demand counts of 113,375 and 108,265, respectively. Both skills have high demand percentages, indicating their critical importance in data engineering roles. SQL is essential for querying and managing data within databases, while Python is versatile for data manipulation, scripting, and automation tasks.
+
+- **Cloud Computing Skills**: 
+Cloud computing platforms such as AWS and Azure are among the top skills demanded for Data Engineers, with demand counts of 62,174 and 60,823, respectively. This underscores the growing reliance on cloud-based infrastructure for data storage, processing, and analytics tasks within data engineering roles.
+
+- **Big Data Technologies**: 
+Skills related to big data technologies such as Spark, Hadoop, and Kafka are also prominently featured among the top demanded skills for Data Engineers. These technologies enable the processing and analysis of large volumes of data, highlighting the importance of big data expertise in data engineering roles.
+
+Additionally, familiarity with specific tools and platforms such as Databricks and Scala can enhance a Data Engineer's skill set and marketability in the industry.
+
 # What I Learned
 TBC
 
